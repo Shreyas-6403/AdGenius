@@ -3,8 +3,6 @@
 **AdGenius** is a modular, plugin-based ad engine designed for developers who want full control over how ads are delivered, targeted, and tracked. Built with TypeScript and Node.js, it's ideal for web apps, SaaS platforms, content-heavy websites, and anyone looking to run smarter ad campaigns without relying on bloated third-party SDKs.
 
 ---
-
----
 ## 📸 Dashboard Preview
 
 <p align="center">
