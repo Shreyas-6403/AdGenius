@@ -37,28 +37,12 @@
 
 ---
 
-## 📂 Project Structure
-
-```plaintext
-AdGenius/
-├── src/
-│   ├── core/         # Ad logic, campaign runners
-│   ├── plugins/      # Ad provider integrations
-│   ├── middleware/   # API integrations
-│   ├── analytics/    # Event logging + metrics
-│   └── config/       # Campaign loaders & rules
-├── examples/         # Sample usage projects
-├── tests/            # Full test suite
-└── README.md
-```
----
-
 ## 🚀 Quick Start
 
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/vcDevelop/AdGenius.git
+git clone https://github.com/Shreyas-6403/AdGenius.git
 cd AdGenius
 ```
 ---
